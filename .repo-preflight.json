@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "kind": "repo-preflight-disposition",
+  "identity": "github.com/jchidley/research",
+  "decision": "changes-published",
+  "reviewedCommit": "e07799dc002cdb7a130a3583bf09df28c420f02a",
+  "operation": "inspect",
+  "files": {
+    "2026-04-16-subscription-tooling-policies-anthropic-openai-google.md": "1d1a7b4ce1d57fdd91b4f7e813c31476f92dbb5cf5c6073a581847b9b537af82",
+    "2026-06-14-pi-coding-agent-model-routing-and-cost-strategy.md": "4618d9fad6429079af7687d2be71b840e80f316845fad705ab0911fea346728e",
+    "README.md": "41c44775ce393ba977bb39e10eddc4f5166aa5a2c3110d07192325377209c111"
+  },
+  "profileId": "4e2f946311539a962f68da645c3a22ac068d8be0022fc08f8ed3cae14331fcc2",
+  "reviewer": "controller-pi-session-01a07795-640e-7529-b8bf-bbdc58622b3e",
+  "summary": "Validated guidance changes are published at the reviewed commit.",
+  "evidenceSummary": [
+    "Validated guidance candidate committed and pushed to main at e07799dc002cdb7a130a3583bf09df28c420f02a; post-publication Repo Preflight reports current.",
+    "Account-wide rollout identity, source scope, disposition, and validation evidence were reconciled."
+  ],
+  "limitations": [
+    "Scoped guidance/caller review, not runtime/deployment or current provider-policy certification.",
+    "Target/base freshness must be checked again before approved publication.",
+    "Owner permits the identified existing personal usage details in this memo to remain public; no blanket privacy waiver. Exact publication still requires approval and fresh target/base checks."
+  ],
+  "recordedAt": "2026-09-06T22:49:05.421Z",
+  "publicationApproved": false
+}
