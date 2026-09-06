@@ -1,6 +1,10 @@
 # research
 
-[Your project description here]
+Dated research and decision memos, preserving the original sources, observations and proposals. They are not active Pi configuration or instructions to execute the embedded recipes. Reported deployments, compatibility, measurements, pricing and policy conclusions describe their stated dates, not verified present state.
+
+Before adopting a proposal, check current source and the actual target, agree its scope and budget, and obtain approval for consequential effects. Do not run installation, destructive recovery, service/device operations, model/provider changes or open-ended experiment loops from these notes. In particular, old Bridge deployment notes do not override the owner's decision to leave Bridge dormant. Historical claims are retained as evidence, not certified by this guidance review.
+
+Some memos contain personal usage/spend or infrastructure details. Preserve their privacy warnings; do not publish them or broaden visibility without a separate privacy review and concrete owner approval.
 
 ## About This Code
 

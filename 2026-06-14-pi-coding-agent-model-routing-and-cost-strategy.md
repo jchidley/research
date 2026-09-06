@@ -2,7 +2,9 @@
 
 **Updated: June 14, 2026**
 
-> **Document role:** current operational strategy for pi model routing, cost control, provider choice, and Codex reasoning effort. For the separate policy/entitlement question — what subscription credentials may safely be used through which tools — see [`2026-04-16-subscription-tooling-policies-anthropic-openai-google.md`](2026-04-16-subscription-tooling-policies-anthropic-openai-google.md).
+> **Document role:** dated operational strategy for pi model routing, cost control, provider choice, and Codex reasoning effort, using the June 14, 2026 inputs below. References to “current” describe that snapshot, not verified present-day availability, pricing, terms, configuration or outcomes. For the separate policy/entitlement question — what subscription credentials may safely be used through which tools — see [`2026-04-16-subscription-tooling-policies-anthropic-openai-google.md`](2026-04-16-subscription-tooling-policies-anthropic-openai-google.md), also a dated source rather than current entitlement proof.
+>
+> **Execution boundary:** this memo is not an instruction to change models, providers, reasoning defaults or spending, or to escalate automatically after a fixed number of failures. Preserve explicit session selections and owner-approved configuration. Propose any change or paid experiment separately, with current evidence, scope and budget. The strategy and measurements below are retained, not independently reproduced or adopted by reading this file.
 >
 > **Privacy note:** this memo contains personal spend and usage data. GitHub visibility for `jchidley/research` was checked on 2026-06-14 and is currently **PUBLIC**, so do not push/publish this memo unless the repo is made private or the personal figures are redacted.
 
